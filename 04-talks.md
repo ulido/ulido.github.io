@@ -30,6 +30,7 @@ permalink: /talks/
 
 ## Invited Conference Talks
 
+* *Particle-based modelling of diffusion: applications to calcium puffs and filopodia*, Stochastic modelling of transport processes in biology workshop, University of Manchester (2016).
 * *Exploring unknown environments - from robot experiments to numerical modelling*, Multiscale transport of particles workshop, Wolfgang Pauli Institute, Vienna, Austria (2015).
 * *Spatial Multi-scale Modelling: Applications to Biological Systems*, Workshop - Stochastic and Multiscale Problems,
  Mathematical Institute, University of Oxford, UK (2014). [[abstract]](https://sites.google.com/site/stochmultiscale2014/list-of-abstracts)
