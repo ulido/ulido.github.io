@@ -6,11 +6,9 @@ permalink: /talks/
 
 ## Seminar talks
 
-* *Particle-based modelling of diffusion: Calcium Puffs and Filopodia*, Computational Life Sciences Workshop, RWTH Aachen, Aachen, Germany (2016) 
-* *Particle-based modelling of diffusion: Calcium Puffs and Filopodia*, Stochastic modelling of transport processes in biology, University of Manchester, Manchester, UK (2016)
 * *Role and dynamics of actin bundles in filopodia*, Stochastic Dynamical Systems in Biology Seminar, Newton Institute, Cambridge, UK (2016).
 * *Excluded volume effects lead to bundle sculpting in filopodia*, Gallop Lab Group Meeting, Wellcome Trust / CRUK Gurdon Institute, University of Cambridge, UK (2015).
-* *Stochastic Multiscale Modelling of Filopodia Dynamics, Papoian Group Meeting, University of Maryland, College Park, Maryland, USA (2015).
+* *Stochastic Multiscale Modelling of Filopodia Dynamics*, Papoian Group Meeting, University of Maryland, College Park, Maryland, USA (2015).
 * *Environmental vs demographic variability in two-species predator-prey models*,
  Complex Systems and Statistical Physics Seminar, University of Manchester, UK (2014).
 * *Environmental vs demographic variability in two-species predator-prey models*,
@@ -32,6 +30,8 @@ permalink: /talks/
 
 ## Invited Conference Talks
 
+* *Particle-based modelling of diffusion: Calcium Puffs and Filopodia*, Computational Life Sciences Workshop, RWTH Aachen, Aachen, Germany (2016) 
+* *Particle-based modelling of diffusion: Calcium Puffs and Filopodia*, Stochastic modelling of transport processes in biology, University of Manchester, Manchester, UK (2016)
 * *Particle-based modelling of diffusion: applications to calcium puffs and filopodia*, Stochastic modelling of transport processes in biology workshop, University of Manchester (2016).
 * *Exploring unknown environments - from robot experiments to numerical modelling*, Multiscale transport of particles workshop, Wolfgang Pauli Institute, Vienna, Austria (2015).
 * *Spatial Multi-scale Modelling: Applications to Biological Systems*, Workshop - Stochastic and Multiscale Problems,
