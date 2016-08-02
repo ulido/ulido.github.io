@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-* H. Chaturvedi, H. Assi, U. Dobramysl, M. Pleimling and U. C. T&auml;uber, *Flux line relaxation kinetics following current quenches in disordered type-II superconductors*, submitted to JSTAT (2016) [[arXiv]](http://arxiv.org/abs/1606.06100)
+* H. Chaturvedi, H. Assi, U. Dobramysl, M. Pleimling and U. C. T&auml;uber, *Flux line relaxation kinetics following current quenches in disordered type-II superconductors*, JSTAT, in press (2016) [[arXiv]](http://arxiv.org/abs/1606.06100)
 * U. Dobramysl, G. A. Papoian, R. Erban, *Steric Effects Induce Geometric Remodeling of Actin Bundles in Filopodia*, Biophys. J. **110**, 2066 (2016) [[abstract]](http://dx.doi.org/10.1016/j.bpj.2016.03.013) [[arXiv]](http://arxiv.org/abs/1605.03119)
 * H. Assi, H. Chaturvedi, U. Dobramysl, M. Pleimling, and U. C.
  T&auml;uber, *Disordered vortex matter out of equilibrium: a Langevin molecular dynamics study*, to appear in Molecular Simulation (2015) [[arxiv]](http://arxiv.org/abs/1509.02227)
