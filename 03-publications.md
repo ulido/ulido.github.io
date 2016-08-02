@@ -10,7 +10,7 @@ permalink: /publications/
  T&auml;uber, *Disordered vortex matter out of equilibrium: a Langevin molecular dynamics study*, to appear in Molecular Simulation (2015) [[arxiv]](http://arxiv.org/abs/1509.02227)
 * H. Assi, H. Chaturvedi, U. Dobramysl, M. Pleimling, and U. C.
  T&auml;uber, *Relaxation dynamics of vortex lines in disordered type-II superconductors following magnetic field and temperature quenches*, Phys. Rev. E **92**, 052124 (2015) [[abstract]](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.052124) [[arXiv]](http://arxiv.org/abs/1505.06240)
-* U. Dobramysl, S. R&uuml;diger, R. Erban, *Particle-based Multiscale Modeling of Intracellular Calcium Dynamics*, SIAM Multiscale Modeling &amp; Simulation, in press (2016). [[arXiv]](http://arxiv.org/abs/1504.00146)
+* U. Dobramysl, S. R&uuml;diger, R. Erban, *Particle-based Multiscale Modeling of Intracellular Calcium Dynamics*, SIAM Multiscale Modeling &amp; Simulation **14**, 997 (2016). [[abstract]](http://epubs.siam.org/doi/abs/10.1137/15M1015030) [[arXiv]](http://arxiv.org/abs/1504.00146)
 * U. Dobramysl, M. Pleimling, U. C. T&auml;uber,
  *Pinning time statistics for vortex lines in
  disordered environments*, Phys. Rev. E **90**, 062108 (2014).
