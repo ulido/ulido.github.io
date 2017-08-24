@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+* U. Dobramysl, M. Mobilia, M. Pleimling and U. C. T&auml;uber, *Stochastic population dynamics in spatially extended predator-prey systems*, topical review, submitted to J. Phys. A: Math. Theor. [[arXiv]](https://arxiv.org/abs/1708.07055)
+* U. Dobramysl and D. Holcman, *Mixed analytical-stochastic simulation method for the recovery of a Brownian gradient source from probability fluxes to small windows*, under review in J. Comp. Phys.
+* U. Dobramysl and D. Holcman, *Reconstructing the gradient source position from steady-state fluxes to small receptors*, under review in Sci. Rep. [[arXiv]](https://arxiv.org/abs/1705.02529)
 * H. Chaturvedi, H. Assi, U. Dobramysl, M. Pleimling and U. C. T&auml;uber, *Flux line relaxation kinetics following current quenches in disordered type-II superconductors*, J. Stat. Mech. (2016) 083301 [[abstract]](http://dx.doi.org/10.1088/1742-5468/2016/08/083301) [[arXiv]](http://arxiv.org/abs/1606.06100)
 * U. Dobramysl, S. R&uuml;diger, R. Erban, *Particle-based Multiscale Modeling of Intracellular Calcium Dynamics*, SIAM Multiscale Modeling &amp; Simulation **14**, 997 (2016). [[abstract]](http://epubs.siam.org/doi/abs/10.1137/15M1015030) [[arXiv]](http://arxiv.org/abs/1504.00146)
 * U. Dobramysl, G. A. Papoian, R. Erban, *Steric Effects Induce Geometric Remodeling of Actin Bundles in Filopodia*, Biophys. J. **110**, 2066 (2016) [[abstract]](http://dx.doi.org/10.1016/j.bpj.2016.03.013) [[arXiv]](http://arxiv.org/abs/1605.03119)
