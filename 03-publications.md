@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
+* H. Chaturvedi, N. Galliher, U. Dobramysl, M. Pleimling and U. C. T&auml;uber, *Dynamical regimes of vortex flow in type-II superconductors with parallel twin boundaries*, submitted to Phys. Rev. B [[arXiv]](https://arxiv.org/abs/1710.03679)
 * U. Dobramysl, M. Mobilia, M. Pleimling and U. C. T&auml;uber, *Stochastic population dynamics in spatially extended predator-prey systems*, topical review, submitted to J. Phys. A: Math. Theor. [[arXiv]](https://arxiv.org/abs/1708.07055)
 * U. Dobramysl and D. Holcman, *Mixed analytical-stochastic simulation method for the recovery of a Brownian gradient source from probability fluxes to small windows*, under review in J. Comp. Phys.
 * U. Dobramysl and D. Holcman, *Reconstructing the gradient source position from steady-state fluxes to small receptors*, under review in Sci. Rep. [[arXiv]](https://arxiv.org/abs/1705.02529)
