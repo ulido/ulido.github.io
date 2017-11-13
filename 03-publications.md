@@ -33,11 +33,11 @@ permalink: /publications/
  Plasmons on Thin, Metallic Films*, Journal of
  Computational and Theoretical
  Nanoscience **6**, 3, 757-762 (2009).
- [[DOI: 10.1166/jctn.2009.1106]](https://doi.org/10.1166/jctn.2009.1106) 
+ [[DOI: 10.1166/jctn.2009.1106]](http://www.ingentaconnect.com/content/asp/jctn/2009/00000006/00000003/art00047) 
 * U. Dobramysl and U. C. T&auml;uber, *Spatial
  Variability Enhances Species Fitness in Stochastic
  Predator-Prey Interactions*,
  Phys. Rev. Lett. **101**, 258102 (2008).
- [[DOI: 10.1166/jctn.2009.1106]](https://doi.org/10.1166/jctn.2009.1106)
+ [[DOI: 10.1103/PhysRevLett.101.258102]](https://doi.org/10.1103/PhysRevLett.101.258102)
  [[arXiv]](https://arxiv.org/abs/0804.4127)
 
