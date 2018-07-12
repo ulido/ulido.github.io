@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-* B. Richier, Y. Inoue, U. Dobramysl, J. Friedlander, N. H. Brown, and J. L. Gallop, *Integrin signaling downregulates filopodia in muscle-tendon attachment*, submitted to Journal of Cell Science (2018). [[bioRxiv]](https://doi.org/10.1101/270546)
+* B. Richier, Y. Inoue, U. Dobramysl, J. Friedlander, N. H. Brown, and J. L. Gallop, *Integrin signaling downregulates filopodia in muscle-tendon attachment*, to appear in Journal of Cell Science (2018). [[bioRxiv]](https://doi.org/10.1101/270546)
 * S. Chen, U. Dobramysl and U. C. T&auml;uber, *Evolutionary dynamics and competition stabilize three-species predator-prey communities*, Ecol. Complex. **36**, 57-72 (2018). <https://doi.org/10.1016/j.ecocom.2018.05.003> [[arXiv]](https://arxiv.org/abs/1711.05208)
 * H. Chaturvedi, N. Galliher, U. Dobramysl, M. Pleimling and U. C. T&auml;uber, *Dynamical regimes of vortex flow in type-II superconductors with parallel twin boundaries*, submitted to Eur. J. Phys. B. [[arXiv]](https://arxiv.org/abs/1710.03679)
 * U. Dobramysl, M. Mobilia, M. Pleimling and U. C. T&auml;uber, *Stochastic population dynamics in spatially extended predator-prey systems*, topical review, J. Phys. A: Math. Theor. **51**, 063001 (2018). <https://doi.org/10.1088/1751-8121/aa95c7> [[arXiv]](https://arxiv.org/abs/1708.07055)
