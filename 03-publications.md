@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-* U. Dobramysl, I. K. Jarsch, H. Shimo, Y. Inoue, B. Richier, J. R. Gadsby, J. Mason, A. Szałapak, Pantelis S. Ioannou, A. Walrant, R. Butler, E. Hannezo, B. D. Simons, J. L. Gallop, *Constrained actin dynamics emerges from variable compositions of actin regulatory protein complexes*, under review in eLife, [[bioRxiv](https://doi.org/10.1101/525725)] (2019).
+* U. Dobramysl, I. K. Jarsch, H. Shimo, Y. Inoue, B. Richier, J. R. Gadsby, J. Mason, A. Szałapak, Pantelis S. Ioannou, A. Walrant, R. Butler, E. Hannezo, B. D. Simons, J. L. Gallop, *Constrained actin dynamics emerges from variable compositions of actin regulatory protein complexes* [[bioRxiv](https://doi.org/10.1101/525725)] (2019).
 * H. Chaturvedi, U. Dobramysl, M. Pleimling, U. C. T ̈auber, *Critical Scaling and Aging near the Flux Line Depinning Transition*, under revision in Phys. Rev. B. (2019). [[arXiv](https://arxiv.org/abs/1907.05804)]
 * I. K. Jarsch, J. R. Gadsby, A. Nuccitelli, J. Mason, H. Shimo, L. Pilloux, B. Marzook, C. M. Mulvey, U. Dobramysl, K. S. Lilley, R. D. Hayward, T. J. Vaughan, C. L. Dobson, J. L. Gallop, *A direct role for SNX9 in the biogenesis of filopodia*, [[bioRxiv](https://doi.org/10.1101/710285)] (2019).
 * O. Shukron, U. Dobramysl, D. Holcman, Chemical Reactions for Molecular and Cell Biology in K. Lindenberg, R. Metzler, G. Oshanin Chemical Kinetics Beyond the Textbook (World Scientific Europe, 2019)
