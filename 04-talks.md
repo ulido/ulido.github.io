@@ -6,6 +6,11 @@ permalink: /talks/
 
 ## Seminar talks
 
+* *Navigation on the microscale - how cells sense direction*, BioLunch Seminar, Department of Applied Mathematics and Theoretical Physics, University of Cambridge, UK (2020).
+* *How do cells sense direction?* Center for Soft Matter and Biological Physics Seminar, Virginia Tech, Blacksburg, VA, USA (2019).
+* *Modelling the growth of actin bundles*, Gurdon Institute Seminar, University of Cambridge, UK (2019).
+* *Stochastic modelling of filopodial growth*, Mathematics in the Life Sciences Seminar, University of Manchester, Manchester, UK (2016).
+* *Diffusion and steric effects in filopodial actin bundles*, Gurdon Institute Seminar, University of Cambridge UK (2016).
 * *Role and dynamics of actin bundles in filopodia*, Stochastic Dynamical Systems in Biology Seminar, Newton Institute, Cambridge, UK (2016).
 * *Excluded volume effects lead to bundle sculpting in filopodia*, Gallop Lab Group Meeting, Wellcome Trust / CRUK Gurdon Institute, University of Cambridge, UK (2015).
 * *Stochastic Multiscale Modelling of Filopodia Dynamics*, Papoian Group Meeting, University of Maryland, College Park, Maryland, USA (2015).
@@ -30,8 +35,9 @@ permalink: /talks/
 
 ## Invited Conference Talks
 
-* *Particle-based modelling of diffusion: Calcium Puffs and Filopodia*, Computational Life Sciences Workshop, RWTH Aachen, Aachen, Germany (2016) 
-* *Particle-based modelling of diffusion: Calcium Puffs and Filopodia*, Stochastic modelling of transport processes in biology, University of Manchester, Manchester, UK (2016)
+* *Stochastic dynamics and regulation of Filopodia-like structures*, British Applied Mathematics Colloquium, Bath, UK (2019).
+* *Particle-based modelling of diffusion: Calcium Puffs and Filopodia*, Computational Life Sciences Workshop, RWTH Aachen, Aachen, Germany (2016).
+* *Particle-based modelling of diffusion: Calcium Puffs and Filopodia*, Stochastic modelling of transport processes in biology, University of Manchester, Manchester, UK (2016).
 * *Exploring unknown environments - from robot experiments to numerical modelling*, Multiscale transport of particles workshop, Wolfgang Pauli Institute, Vienna, Austria (2015).
 * *Spatial Multi-scale Modelling: Applications to Biological Systems*, Workshop - Stochastic and Multiscale Problems,
  Mathematical Institute, University of Oxford, UK (2014). [[abstract]](https://sites.google.com/site/stochmultiscale2014/list-of-abstracts)
@@ -41,7 +47,9 @@ permalink: /talks/
 
 ## Contributed conference talks
 
-* U. Dobramysl, G. A. Papoian and R. Erban, Physical Principles of Biological and Active Systems, Edinburgh, UK (2016)
+* U. Dobramysl and D. Holcman, *Sensing and triangulation of chemical gradients*, Society of Mathematical Biology Annual Meeting (2020).
+* U. Dobramysl and D. Holcman, *Determining the probability flux from a Brownian source to small absorbing windows via a mixed analytical-stochastic simulation method*, 11th European Conference on Mathematical and Theoretical Biology, Lisbon, Portugal (2018).
+* U. Dobramysl, G. A. Papoian and R. Erban, *Steric effects lead to reaction-diffusion actin bundle sculpting in filopodia*, Physical Principles of Biological and Active Systems, Edinburgh, UK (2016).
 * U. Dobramysl, K. Bodova, R. Kollar and R. Erban, *Human pair walking behavior: evaluation of cooperation strategies*, APS March
  Meeting, San Antonio, Texas, USA (2015).
  [[abstract]](http://meeting.aps.org/Meeting/MAR15/Session/B47.13)
