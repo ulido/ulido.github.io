@@ -4,10 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
-Dr Ulrich Dobramysl  
-Wellcome Trust / CRUK Gurdon Institute  
-Henry Wellcome Building of Cancer and Developmental Biology  
-Tennis Court Road  
-Cambridge CB2 1QN, UK  
+Dr Ulrich Dobramysl
+Department of Applied Mathematics and Theoretical Physics
+University of Cambridge
+Wilberforce Road
+Cambridge CB3 0WA, UK
 
 email: <mailto:ulrich.dobramysl@gmail.com>

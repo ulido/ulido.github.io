@@ -4,9 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
-* U. Dobramysl, D. Holcman, *Triangulation sensing: how cells recover a source from diffusing particles in three dimensions*, under review in SIAM Rev. (2020) [[arXiv](https://arxiv.org/abs/1911.02907)]
-* U. Dobramysl, D. Holcman, *Reconstructing a point source from diffusion fluxes to narrow windows in three dimensions*, accepted in Phys. Rev. Lett. (2020) [[arXiv](https://arxiv.org/abs/2001.01562)]
-* U. Dobramysl, I. K. Jarsch, H. Shimo, Y. Inoue, B. Richier, J. R. Gadsby, J. Mason, A. Szałapak, Pantelis S. Ioannou, A. Walrant, R. Butler, E. Hannezo, B. D. Simons, J. L. Gallop, *Constrained actin dynamics emerges from variable compositions of actin regulatory protein complexes*, in revision in J. Cell. Sci. (2019) [[bioRxiv](https://doi.org/10.1101/525725)] (2019).
+* U. Dobramysl, D. Holcman, *Mean time to infection by small diffusing droplets containing SARS-CoV-2 during close social contacts*, submitted to Lancet Infect. Dis. (2021). [[medRxiv](https://doi.org/10.1101/2021.04.01.21254802)]
+* U. Dobramysl, D. Holcman, *Computational methods and diffusion theory to model neuronal navigation*, under review in Physics Reports (2021). [[arXiv](https://arxiv.org/abs/2011.04526)]
+* U. Dobramysl, D. Holcman, *Reconstructing a point source from diffusion fluxes to narrow windows in three dimensions*, under review in Royal Soc. Proc. A. [[arXiv](https://arxiv.org/abs/1911.02907)]
+* U. Dobramysl, I. K. Jarsch, H. Shimo, Y. Inoue, B. Richier, J. R. Gadsby, J. Mason, A. Szałapak, Pantelis S. Ioannou, A. Walrant, R. Butler, E. Hannezo, B. D. Simons, J. L. Gallop, *Stochastic combinations of actin regulatory proteins are sufficient to drive filopodia formation*, J. Cell. Biol. 220, e202003052 (2021). <https://doi.org/10.1083/jcb.202003052> [[bioRxiv](https://doi.org/10.1101/525725)]
+* U. Dobramysl, D. Holcman, *Triangulation sensing: how cells recover a source from diffusing particles in three dimensions*, Phys. Rev. Lett. 128, 148102 (2020). <https://doi.org/10.1103/PhysRevLett.125.148102> [[arXiv](https://arxiv.org/abs/2001.01562)]
 * H. Chaturvedi, U. Dobramysl, M. Pleimling, U. C. T&auml;uber, *Critical Scaling and Aging near the Flux Line Depinning Transition*, Phys. Rev. B. 101, 024515 (2020). <https://doi.org/10.1103/PhysRevB.101.024515> [[arXiv](https://arxiv.org/abs/1907.05804)]
 * I. K. Jarsch, J. R. Gadsby, A. Nuccitelli, J. Mason, H. Shimo, L. Pilloux, B. Marzook, C. M. Mulvey, U. Dobramysl, K. S. Lilley, R. D. Hayward, T. J. Vaughan, C. L. Dobson, J. L. Gallop, *A direct role for SNX9 in the biogenesis of filopodia*, J. Cell. Biol. **219**, e201909178 (2020) <https://doi.org/10.1083/jcb.201909178> [[bioRxiv](https://doi.org/10.1101/710285)]
 * O. Shukron, U. Dobramysl, D. Holcman, *Chemical Reactions for Molecular and Cell Biology* in K. Lindenberg, R. Metzler, G. Oshanin, *Chemical Kinetics Beyond the Textbook* (World Scientific Europe, 2019)
